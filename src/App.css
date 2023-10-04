@@ -1,0 +1,109 @@
+.App
+{
+  text-align: center;
+
+}
+.erromsg
+{
+  color: red;
+}
+.navbar
+{
+  background-color:black;
+}
+.head
+{
+  color: white !important;
+  font-weight:bolder !important;
+  text-transform: uppercase;
+  margin: 0px 15px;
+  border-radius: 5px;
+}
+.head:hover
+{
+  background-color: orange;
+}
+.logo
+{
+  color:orange !important;
+  font-weight: bolder;
+  font-size: 25px;
+  text-transform: uppercase;
+  padding: 5px 10px;
+}
+.banner
+{
+  background-image: url("images/istockphoto-1333972938-612x612.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  margin-top: -17px;
+}
+.conters{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 700px;
+  width: 100%;
+}
+.conters h2{
+  color: white;
+  margin-bottom: 25px;
+}
+.conters p
+{
+  width: 700px;
+  color: white;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.btn1
+{
+  width: 150px;
+  height: 45px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius:5px ;
+  margin: 0px 15px;
+  margin-top: 80px;
+  font-weight: bolder;
+}
+.btn1:hover
+{
+  background: orange;
+}
+
+.backs
+{
+  /* background-image: linear-gradient(to right top, #6bd174, #8fbf42, #aea90c,
+   #ca8f00, #e16e00, #dd7700, #d87f00,
+    #d48700, #b3af2a, #8fce6a, #6ae7af,
+     #5ffbf1); */
+  background-image:url('images/pexels-photo-1183099.jpeg') ;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  
+}
+input
+{
+  height: 45px;
+  box-shadow: none;
+  outline: none;
+  margin-bottom: 20px;
+}
+label
+{
+  font-weight: bolder;
+  margin-bottom: 10px;
+ 
+  
+}
+.gard
+{
+  height: 400px;
+}

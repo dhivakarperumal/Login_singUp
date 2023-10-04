@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "lastName": "P",
+      "email": "dhivakard416@gmail.com",
+      "password": "123456789",
+      "conf": "123456789",
+      "country": ""
+    },
+    {
+      "id": "Dhivakar",
+      "lastName": "P",
+      "email": "dhivakarp305@gmail.com",
+      "password": "12345678",
+      "conf": "12345678",
+      "country": "USA"
+    },
+    {
+      "id": "dhivakar",
+      "lastName": "P",
+      "email": "dhivakard416@gmail.com",
+      "password": "2345",
+      "conf": "2345",
+      "country": ""
+    },
+    {
+      "id": "DhivakarP",
+      "lastName": "P",
+      "email": "dhivakar@gmail.com",
+      "password": "123456",
+      "conf": "123456",
+      "country": "China"
+    }
+  ]
+}
